@@ -4,7 +4,7 @@
 echo -e "\e[36m si lo puedes imaginar\e[0m"
 sleep 1
 echo -e "\e[36m++++++++++++++++++++++++++\e[0m"
-echo -e "\e[36m+ si lo puedes imaginar  +\e[0m"
+echo -e "\e[36m+ lo puedes programar  +\e[0m"
 echo -e "\e[36m++++++++++++++++++++++++++\e[0m"
 echo ""
 sleep 3.9
